@@ -6,7 +6,7 @@
 
 Срок выполнения задания:
 
-**по 06.04.2025** ![Relative date](https://img.shields.io/date/1743368400)
+**по 30.03.2025** ![Relative date](https://img.shields.io/date/1743368400)
 
 
 ## Задание
